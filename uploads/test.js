@@ -1,1 +1,1 @@
-Hello World Nginx
+alert(2)
